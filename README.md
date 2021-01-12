@@ -23,4 +23,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Drop A Mail At jaswanthremiel7@gmail.com
-Or Go to https://remiel.works
+Or Go to [My BLOG !](https://remiel.works/).
